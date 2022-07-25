@@ -1,0 +1,4 @@
+The Odin project is the best site to learn programming languages
+so far i have learn command line along with all the  basic command 
+and how to set up git and github as a tool to track my record on 
+changes
